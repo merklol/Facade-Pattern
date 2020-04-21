@@ -1,0 +1,2 @@
+john:qwerty1234:default_user
+jane:qwerty:administrator
